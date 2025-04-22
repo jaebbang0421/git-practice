@@ -2,4 +2,4 @@ hello Github!
 This is a feature branch
 
 아무 문장 추가
-origin/main
+
